@@ -82,6 +82,8 @@ input[type="submit"] {
   padding: 7px 3px;
   color: #fff;
   height: 37px;
+  font-family: 'Poppins', sans-serif;
+  
 }
 
 input[type="submit"]:hover {
@@ -131,6 +133,7 @@ p {
 
   h2 {
     font-size: 15px;
+    font-family: 'Poppins', sans-serif;
   }
 
   input[type="submit"] {
@@ -152,6 +155,7 @@ p {
   select {
     width: 150%;
     font-size: 5px;
+    font-family: 'Poppins', sans-serif;
   }
 
   .form {
