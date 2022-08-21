@@ -62,7 +62,6 @@ body {
   margin: 8px 0px 7px;
   background-color: aliceblue;
   padding: 8px 5px;
-  font-family: "Montserrat", sans-serif;
   border-radius: 7px;
   border: solid 1px #ada2a2;
   color: #736d6d;
@@ -80,7 +79,6 @@ input[type="submit"] {
   padding: 7px 3px;
   color: #fff;
   height: 37px;
-  font-family: "Montserrat", sans-serif;
 }
 
 input[type="submit"]:hover {
@@ -92,7 +90,6 @@ input[type="submit"]:hover {
 
 .error {
   color: white;
-  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .display-info p span {
@@ -169,7 +166,6 @@ p {
   p {
     font-weight: 400;
     color: white;
-    font-family: cursive;
     font-size: 12px;
   }
 }
